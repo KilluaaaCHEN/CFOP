@@ -54,8 +54,6 @@ function collectFormulas() {
             });
         }
     });
-
-    console.log(`收集到 ${originalFormulas.size} 个公式`);
 }
 
 function reverseFormula(formula) {
